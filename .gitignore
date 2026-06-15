@@ -21,5 +21,5 @@ __pycache__/
 .idea
 
 # dotenv 무시 설정
-.dotenv
+.env
 # 비밀 키 같은거 공유 가능 (깃허브에 올리지 않음)
